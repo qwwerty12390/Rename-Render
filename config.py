@@ -21,7 +21,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "KOREAN_DRAMA_FILES_HINDI")
 
 DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
 
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://ashubot:ashubot@cluster0.q3x8qbk.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://bhankharvansh:8xS4igRIb41EiJnz@cluster0.ctbwmpb.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
